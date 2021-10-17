@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jisha Naik</h1>
 <h3 align="center">Currently exploring different fields.</h3>
 
-- 🌱 I’m currently learning about **Web development, Open Source and Android Development. **
+- 🌱 I’m currently learning about **Web development, Open Source and Android Development.**
 
 - 📫 How to reach me **jishanaik@gmail.com**
 
